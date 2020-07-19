@@ -1,6 +1,6 @@
 # SOLID-principles-of-OOP
 Dive in S.O.L.I.D. Principles of OOP with examples.
-***Derived from https://www.udemy.com/course/spring-framework-5-beginner-to-guru/
+*Derived from https://www.udemy.com/course/spring-framework-5-beginner-to-guru/*
 
 ## Single-responsibility principle
 A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
